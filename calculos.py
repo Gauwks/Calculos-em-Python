@@ -22,6 +22,6 @@ input("\tc conversão de F°(Fahrenheit) para C°(Celsius)")
 
 Match operações:
   case "a": result = valor1 + valor2
-   print(f'O Resultado é: {result})
+   print(f'O Resultado é: {result}')
   break;
      
