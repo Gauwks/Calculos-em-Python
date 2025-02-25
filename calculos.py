@@ -20,3 +20,4 @@ input("\tc conversão de C°(Celsius) para F°(Fahrenheit)")
 input("\tc conversão de F°(Fahrenheit) para C°(Celsius)")
 
 Match operações:
+  case "a" :
