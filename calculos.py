@@ -16,3 +16,7 @@ input("\tA2 - Área de um Retângulo com o segundo número como base")
 input("\tAT - Área de um Triângulo com o primeiro número como base")
 input("\tAT2 - Área de um Triângulo com o segundo número como base")
 input("\tc conversão de C°(Celsius) para F°(Fahrenheit)")
+input("\tc conversão de C°(Celsius) para F°(Fahrenheit)")
+input("\tc conversão de F°(Fahrenheit) para C°(Celsius)")
+
+Match operações:
