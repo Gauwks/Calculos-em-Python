@@ -2,6 +2,7 @@ print('Bem-vindo(a) ao Super Calculador 6000 em Python!')
 
 n1 = int(input("Digite um número: "))
 n2 = int(input("Digite um número: "))
+result = float
 
 print('Operações Básicas: \n')
 input("\ta - Adição")
@@ -20,4 +21,7 @@ input("\tc conversão de C°(Celsius) para F°(Fahrenheit)")
 input("\tc conversão de F°(Fahrenheit) para C°(Celsius)")
 
 Match operações:
-  case "a" :
+  case "a": result = valor1 + valor2
+   print(f'O Resultado é: {result})
+  break;
+     
