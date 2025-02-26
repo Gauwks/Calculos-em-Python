@@ -24,4 +24,6 @@ Match operações:
   case "a": result = valor1 + valor2
    print(f'O Resultado é: {result}')
   break;
+  case "s": result = valor1 - valor2
+   print(f'O Resultado é: result,')
      
